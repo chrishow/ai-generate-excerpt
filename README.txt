@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== AI Generate Excerpt ===
 Contributors: Chris How
 Tags: excerpt, ai
 Requires at least: 5.0.1
